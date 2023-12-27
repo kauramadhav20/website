@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #fff;
+    color: #1c1e21;
+    direction: ltr;
+    line-height: 1.34;
+    margin: 0;
+    padding: 0;
+    unicode-bidi: embed;
+}
+
+.txt-style{
+    background-color:#42b72a;
+    border: none;
+    border-radius: 6px;
+    font-size: 17px;
+    line-height: 48px;
+    padding: 0 16px;
+    cursor: pointer;
+    display: inline-block;
+    text-decoration: none;
+    white-space: nowrap;
+    color:#fff
+}
+
+.ppading{
+    padding: 20px;
+    border: 1px solid bisque;
+}
+
+.bg-white{
+    background-color: white;
+}
+
+.style{
+    /* box-sizing: content-box; */
+    font-weight: bold;
+    position: relative;
+    text-align: center;
+    text-shadow: none;
+    vertical-align: middle;
+}
+
+
+.bg-aqua{
+    background-color: #f7f5f5;
+}
+
+section{
+    display: flex;
+}
+
+img{
+    height: 130px;
+    margin: -28px;
+    padding-bottom: 20px;
+    align-items: center;
+}
+
+body, button, input, label, select, td, textarea {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+}
+
+.txt-size{
+    font-size: 14px;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+}
+
+a {
+    color: #385898;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+._8eso{
+    padding: 0;
+    line-height: 28px;
+    width: auto;
+    padding: 0 0 20px;
+    color: #1c1e21;
+    display: inline-block;
+    text-rendering: optimizelegibility;
+    margin: 0;
+    font-size: 24px;
+}
+
+.fl-r{
+    float: right;
+}
+
+._8icy ._6lth {
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 332px;
+}
+
+.input{
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 330px;
+    /* height: 22px; */
+    line-height: 16px;
+    vertical-align: middle;
+    /* margin:auto; */
+    border: 1px solid #dddfe2;
+}
+
+.box{
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    box-sizing: border-box;
+    /* margin: 40px 0 0; */
+    /* padding: 20px 0 28px; */
+    width: 396px;
+    padding-bottom: 24px;
+    padding-top: 10px;
+    /* margin:auto */
+}
+
+form{
+    margin:0;
+    padding:0;
+}
+
+input[type="text" i] {
+    writing-mode: horizontal-tb !important;
+    padding-block: 1px;
+    padding-inline: 2px;
+}
+
+.margin{
+    margin-left: 10%;
+    margin-right: 5%;
+    margin-bottom: 10%;
+}

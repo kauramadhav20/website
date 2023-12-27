@@ -1,0 +1,33 @@
+.box-style {
+    margin-bottom: 30%; 
+    margin-top: 30%;
+    justify-content: center;
+}
+
+.box-style2{
+    margin-top: 15%;
+    text-align: right;
+    margin-left: 20%;
+    display: flex;
+    /* margin-bottom: 10%; */
+}
+.font-style {
+    font-family:Arial black;
+    font: inherit;
+    color: inherit;
+    white-space: inherit;
+    color: rgb(0, 0, 0);
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
+    border: 0px solid black;
+    display: inline;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    letter-spacing: -1.2px;
+    font-size: 64px;
+    font-weight: bolder;
+}
+.padding{
+    padding: 20px;
+}
